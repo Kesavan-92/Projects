@@ -1,0 +1,101 @@
+bookid,book_title,pubid,authorname,Category,Date_of_Arrival,Book_Status
+1,MYSQL,101,Anand,Domain,2024-01-02,Available
+2,Palace of Illusions,102,Chitra Banerjee ,Novels,2024-01-03,Available
+3,The Immortals of Meluha,101,Amish Tripathi,Novels,2024-01-04,Not-Available
+4,Oracle SQL by Example,104,Alice Rischert,Domain,2024-01-05,Available
+5,Effective Java,103,Joshua Bloch,Domain,2024-01-07,Available
+6,Mastering Python Data Analysis,102,Magnus Vilhelm,Domain,2024-01-10,Not-Available
+7,Embedded Systems Design,101,Chris Nagy,Domain,2024-01-15,Available
+8,Pro PHP Programming,102,M.J.Powers,Domain,2024-01-17,Available
+9,The Test of My Life,101,Yuvraj Singh,History,2024-01-20,Available
+10,Playing It My Way,102,Sachin Tendulkar,History,2024-01-28,Available
+11,Ponniyin Selvan,101,Kalki Krishnamurthi,History,2024-02-01,Available
+12,Kamba ramayanam,102,Ra.Seenivasan,Literature,2024-02-04,Available
+13,Mahabaratham,101,N.Parthasarathy,Literature,2024-02-07,Available
+14,Sivagamiyin sabatham,104,Kalki Krishnamurthi,History,2024-02-09,Available
+15,Programming with Java,103,Balagurusamy,Domain,2024-02-12,Available
+16,HTML,102,Sybex,Domain,2024-02-15,Available
+17,World Regional Geography,101,Caitlin Finlayson,Geography,2024-02-18,Available
+18,Modern Geography,102,James Geikie,Geography,2024-02-21,Available
+19,Pride and Prejudice,101,Jane Austen,Novels,2024-02-25,Available
+20,1984,102,George Orwell,Novels,2024-02-28,Available
+21,To Kill a Mockingbird,114,Harper Lee,Novels,2024-03-01,Available
+22,The Road,102,Cormac McCarthy,Novels,2024-03-04,Available
+23,Normal People,105,Sally Rooney,Novels,2024-03-06,Available
+24,Where the Crawdads Sing,104,Delia Owens,Novels,2024-03-09,Available
+25,Learning SQL,103,Alan Beaulieu,Domain,2024-03-12,Available
+26,Introduction to Algorithms,102,Thomas H. Cormen,Domain,2024-03-15,Available
+27,The Great Gatsby,108,F. Scott Fitzgerald,Novels,2024-03-17,Available
+28,Microeconomics,102,Paul Krugman,Domain,2024-03-19,Available
+29,World Geography,113,Richard G. Boehm,Geography,2024-03-24,Available
+30,Advanced Java,102,Kathy Sierra,Domain,2024-03-30,Available
+31,"Guns,Germs And Steel:The Fates Of Human Societies",114,Jared Diamond,History,2024-04-02,Available
+32,A History Of Nazi Germany,112,William L. Shirer,History,2024-04-05,Available
+33,A PeopleS History Of The United States,105,Howard Zin,History,2024-04-08,Available
+34,Decline And Fall Of The Roman Empire,104,Edward Gibbon,History,2024-04-11,Available
+35,The Political Genius Of Abraham Lincoln,103,Doris Kearns Goodwin,History,2024-04-13,Available
+36,The Silk Roads:A New History Of The World,106,Peter Frankopan,History,2024-04-15,Available
+37,1776,108,David Mccullough,History,2024-04-18,Available
+38,The Wright Brothers,109,David Mccullough,History,2024-04-20,Available
+39,The Diary Of A Young Girl,113,Anne Frank,History,2024-04-24,Available
+40,Spqr:A History Of Ancient Rome,115,Mary Beard,History,2024-04-29,Available
+41,The Catcher In The Rye,114,J.D.Salinger,Novels,2024-05-02,Available
+42,Moby-Dick,112,Herman Melville,Novels,2024-05-04,Available
+43,Beloved,105,Toni Morrison,Novels,2024-05-06,Available
+44,Jane Eyre,104,Charlotte Bronte,Novels,2024-05-10,Available
+45,The Kite Runner,103,Khaled Hosseini,Novels,2024-05-11,Available
+46,Dracula,106,Bram Stoker,Novels,2024-05-15,Available
+47,Frankenstein,108,Mary Shelley,Novels,2024-05-19,Available
+48,The Shining,109,Stephen King,Novels,2024-05-20,Available
+49,The Haunting Of Hill House,113,Shirley Jackson,Novels,2024-05-23,Available
+50,Interview With The Vampire,115,Anne Rice,Novels,2024-05-31,Available
+51,Pet Sematary,114,Stephen King,Novels,2024-06-01,Not-Available
+52,The Excorcist,112,William Peter Blatty,Novels,2024-06-03,Not-Available
+53,Bird Box,105,Josh Malerman,Novels,2024-06-07,Not-Available
+54,House Of Leaves,104,Mark Z.Danielewski,Novels,2024-06-11,Not-Available
+55,The Silence Of The Lamps,103,Thomas Harris,Novels,2024-06-13,Not-Available
+56,The Notebook,106,Nicholas Sparks,Novels,2024-06-17,Not-Available
+57,Outlander,108,Diana Gabaldon,Novels,2024-06-19,Not-Available
+58,Me Before You,109,Jojo Moyes,Novels,2024-06-23,Not-Available
+59,The Quantum Enigma,113,Dr. Emily Hart,Geography,2024-06-26,Not-Available
+60,Echoes of the Past,115,Michael Reed,Novels,2024-06-28,Not-Available
+61,Mastering Python,114,Lisa Johnson,Domain,2024-07-03,Not-Available
+62,The Enchanted Forest,112,Sarah Miller,Novels,2024-07-05,Not-Available
+63,Data Science for Beginners,105,Kevin Liu,Domain,2024-07-07,Not-Available
+64,Journey to the Unknown,104,Amanda Cruz,Geography,2024-07-09,Not-Available
+65,The Art of Mindfulness,103,Rebecca White,Novels,2024-07-11,Not-Available
+66,Understanding Machine Learning,106,David Patel,Domain,2024-07-13,Not-Available
+67,Secrets of the Ocean,108,Laura Bennett,Geography,2024-07-15,Not-Available
+68,Whispers in the Dark,109,Tom Harris,Novels,2024-07-17,Not-Available
+69,The Silent Sea,113,Emma Collins,Literature,2024-07-19,Not-Available
+70,The Last Horizon,115,Samuel Green,Literature,2024-07-21,Not-Available
+71,Beneath the Willow Tree,114,Olivia Brooks,Literature,2024-07-23,Not-Available
+72,Shadows of the Heart,112,Daniel Morgan,Literature,2024-07-25,Not-Available
+73,The Forgotten Song,105,Hannah Lee,Literature,2024-07-27,Not-Available
+74,Echoes of Eternity,104,James Turner,Literature,2024-07-29,Not-Available
+75,The Illusion of Time,103,Isabella Wright,Literature,2024-07-31,Not-Available
+76,A Glimpse of Dawn,106,William Scott,Literature,2024-08-01,Not-Available
+77,Threads of Destiny,108,Sophia Adams,Literature,2024-08-02,Not-Available
+78,Whispers of the Past,109,Andrew Thompson,Literature,2024-08-02,Not-Available
+79,World Atlas,113,Robert Anderson,Geography,2024-08-03,Not-Available
+80,Exploring Continents,115,Karen Lewis,Geography,2024-08-04,Not-Available
+81,Geography of the Earth,114,Michael Carter,Geography,2024-08-05,Not-Available
+82,The Global Climate,112,Jessica Hayes,Geography,2024-08-05,Not-Available
+83,Landscapes and Regions,105,David Brown,Geography,2024-08-05,Not-Available
+84,Rivers and Mountains,104,Emily Robinson,Geography,2024-08-06,Not-Available
+85,Human Geography: Patterns and Processes,103,James King,Geography,2024-08-07,Not-Available
+86,Cities of the World,107,Linda White,Geography,2024-08-08,Not-Available
+87,Geographic Information Systems,108,Thomas Evans,Geography,2024-08-08,Not-Available
+88,The Geography of Biodiversity,110,Sarah Turner,Geography,2024-08-09,Not-Available
+89,Echoes of Ancient Civilizations,113,Richard Adams,History,2024-08-09,Not-Available
+90,The Age of Empires,115,Laura Bennett,History,2024-08-10,Not-Available
+91,Chronicles of the Middle Ages,114,Jonathan Clark,History,2024-08-10,Not-Available
+92,Revolutions and Reform,112,Emma Thompson,History,2024-08-10,Not-Available
+93,World War Chronicles,105,Michael Turner,History,2024-08-11,Not-Available
+94,Advanced Data Structures,104,Anna Patel,Domain,2024-08-11,Not-Available
+95,Introduction to Cloud Computing,103,Robert Green,Domain,2024-08-12,Not-Available
+96,Cybersecurity Essentials,107,Jessica Miller,Domain,2024-08-13,Not-Available
+97,Network Security Fundamentals,108,Jason Brown,Domain,2024-08-14,Not-Available
+98,Big Data Analytics,110,Laura Green,Domain,2024-08-16,Not-Available
+99,Climate and Weather Patterns,113,Karen Turner,Geography,2024-08-17,Not-Available
+100,Human Impact on the Environment,115,Emily Johnson,Geography,2024-08-18,Not-Available
