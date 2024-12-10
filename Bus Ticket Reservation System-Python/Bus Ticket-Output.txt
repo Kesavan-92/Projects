@@ -1,0 +1,47 @@
+RESTART: D:\Desktop files\Python exercise\Project-Bus ticket.py
+Welcome to Bus ticket booking
+1.Chennai to Madurai
+2.Madurai to Chennai
+3.Chennai to Bangalore
+4.Bangalore to Chennai
+Enter your choice to select route:2
+Enter date of journey:12-12-2024
+1. Intercity
+2. SRS
+3. YBM
+4. Parveen
+Please select bus:3
+
+Select your time to travel
+1. 06:00 AM
+2. 10:00 PM
+3. 12:00 PM
+4. 03:00 PM
+5. 06:00 PM
+6. 08:00 PM
+Please Select Time:6
+No.of tickets:1
+Enter your contact number:9500320281
+
+Enter your seat number:10
+Enter name:Kesavan T
+Enter age:32
+Gender:Male
+Your OTP is- 687087
+Please Enter OTP:687087
+
+OTP verified
+
+***Your journey details are below***
+
+Name: Kesavan T
+Age: 32
+Gender: Male
+Bus name: YBM
+Departure time: 08:00 PM
+Seat Number: 10
+Date of journey: 12-12-2024
+No.of tickets: 1
+Total amount: 635
+
+***your ticket is booked***
